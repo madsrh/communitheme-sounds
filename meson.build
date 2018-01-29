@@ -1,4 +1,4 @@
-project('communitheme-sounds',
+project('communitheme',
     version: '0.1',
     meson_version: '>= 0.40',
     license: 'CC BY-SA 3.0',
